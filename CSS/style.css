@@ -44,6 +44,10 @@ div.buttonwrapper{
     width: auto;
 }
 
+.google_search_btn:hover{
+    border: 1px solid white;
+}
+
 
 #lucky_google_btn{
     width: auto;
@@ -55,4 +59,8 @@ div.buttonwrapper{
     background-color: #dfe1e5;
     margin-right: auto;
     margin-left: 15px;
+}
+
+#lucky_google_btn:hover{
+    border: 1px solid white;
 }
